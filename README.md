@@ -39,7 +39,7 @@ const nodeFileEval = require('node-file-eval');
 
 fileEval('./path/to/file.js')
     .then(console.log)
-    .catch(console.log);
+    .catch(console.error);
 ```
 
 API
@@ -93,9 +93,7 @@ With context you can provide some like-a-global variables into `node-file-eval`.
 
 ```js
 const nodeFileEval = require('node-file-eval');
-
 const secretKey = '^___^';
-const contents = 'module.exports = secretKey;';
 
 // The file has the contents "module.exports = secretKey;"
 nodeFileEval('./path/to/file.js', {
