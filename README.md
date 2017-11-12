@@ -126,7 +126,7 @@ Evaluates `CommonJS` files with `.js` extention.
 const nodeFileEval = require('node-file-eval');
 
 // export data with `module.exports` or `exports`
-nodeFileEval('path/to/file.js');
+nodeFileEval('./path/to/file.js');
 ```
 
 ### JSON
@@ -136,7 +136,7 @@ Evaluates `JSON` files with `.json` extention.
 ```js
 const nodeFileEval = require('node-file-eval');
 
-nodeFileEval('path/to/file.json');
+nodeFileEval('./path/to/file.json');
 ```
 
 Related
