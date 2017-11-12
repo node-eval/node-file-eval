@@ -144,7 +144,7 @@ Related
 
 * [node-eval](https://github.com/node-eval/node-eval) — eval Node.js contents only (JS-expression, CommonJS modules and JSON).
 * [any-eval](https://github.com/node-eval/any-eval) — eval any contents (JS-expression, CommonJS modules and JSON/JSON5).
-* [file-eval](https://github.com/node-eval/file-eval) — read any file and eval it with [any-eval]().
+* [file-eval](https://github.com/node-eval/file-eval) — read any file and eval it with [any-eval](https://github.com/node-eval/any-eval).
 
 License
 -------
