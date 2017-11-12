@@ -1,6 +1,6 @@
 {
   "name": "node-file-eval",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Read node.js file and eval it",
   "license": "MIT",
   "repository": "node-eval/node-file-eval",
