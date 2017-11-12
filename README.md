@@ -107,7 +107,7 @@ nodeFileEval('./path/to/file.js', {
 
 ### nodeFileEval.sync(file[, options])
 
-Synchronous version of [nodeFileEval](#fileevalfile-options).
+Synchronous version of [nodeFileEval](#nodefileevalfile-options).
 
 Method signature is same.
 
