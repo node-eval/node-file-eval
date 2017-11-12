@@ -114,7 +114,7 @@ Method signature is same.
 Formats
 -------
 
-Supports [CommonJS](#commonjs), [JSON](#json) and [JSON5](#json5) formats.
+Supports [CommonJS](#commonjs) and [JSON](#json) formats.
 
 > See [examples](./examples) with evaluating files with different formats.
 
