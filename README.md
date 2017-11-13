@@ -37,7 +37,7 @@ Usage
 ```js
 const nodeFileEval = require('node-file-eval');
 
-fileEval('./path/to/file.js')
+nodeFileEval('./path/to/file.js')
     .then(console.log)
     .catch(console.error);
 ```
