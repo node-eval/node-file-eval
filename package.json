@@ -21,7 +21,7 @@
     "node": ">= 4"
   },
   "dependencies": {
-    "es6-promisify": "5.0.0",
+    "es6-promisify": "6.0.2",
     "node-eval": "2.0.0"
   },
   "devDependencies": {
